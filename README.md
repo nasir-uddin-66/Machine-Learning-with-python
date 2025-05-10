@@ -5,7 +5,9 @@ This repository contains beginner-friendly implementations of supervised machine
 ## 📌 Algorithms Implemented
 
 - **Linear Regression**
+- **Logistic Regression**
 - **Decision Tree**
+- **Support Vector Machine**
 
 ## 📁 Dataset Information
 
